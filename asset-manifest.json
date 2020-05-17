@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/atishay-aj/react-monster/static/css/main.aaf8a044.chunk.css",
-    "main.js": "/atishay-aj/react-monster/static/js/main.ee8c6469.chunk.js",
-    "main.js.map": "/atishay-aj/react-monster/static/js/main.ee8c6469.chunk.js.map",
-    "runtime-main.js": "/atishay-aj/react-monster/static/js/runtime-main.7b54cbee.js",
-    "runtime-main.js.map": "/atishay-aj/react-monster/static/js/runtime-main.7b54cbee.js.map",
-    "static/js/2.7d94dc6b.chunk.js": "/atishay-aj/react-monster/static/js/2.7d94dc6b.chunk.js",
-    "static/js/2.7d94dc6b.chunk.js.map": "/atishay-aj/react-monster/static/js/2.7d94dc6b.chunk.js.map",
-    "index.html": "/atishay-aj/react-monster/index.html",
-    "precache-manifest.e5fd5ab9f58b95ecfb1834bcee496156.js": "/atishay-aj/react-monster/precache-manifest.e5fd5ab9f58b95ecfb1834bcee496156.js",
-    "service-worker.js": "/atishay-aj/react-monster/service-worker.js",
-    "static/css/main.aaf8a044.chunk.css.map": "/atishay-aj/react-monster/static/css/main.aaf8a044.chunk.css.map",
-    "static/js/2.7d94dc6b.chunk.js.LICENSE.txt": "/atishay-aj/react-monster/static/js/2.7d94dc6b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/atishay-aj/react-monster/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-monster/static/css/main.aaf8a044.chunk.css",
+    "main.js": "/react-monster/static/js/main.6627251d.chunk.js",
+    "main.js.map": "/react-monster/static/js/main.6627251d.chunk.js.map",
+    "runtime-main.js": "/react-monster/static/js/runtime-main.a54653ae.js",
+    "runtime-main.js.map": "/react-monster/static/js/runtime-main.a54653ae.js.map",
+    "static/js/2.7d94dc6b.chunk.js": "/react-monster/static/js/2.7d94dc6b.chunk.js",
+    "static/js/2.7d94dc6b.chunk.js.map": "/react-monster/static/js/2.7d94dc6b.chunk.js.map",
+    "index.html": "/react-monster/index.html",
+    "precache-manifest.7cee39ae0fb0deab6c0494491cd8fcde.js": "/react-monster/precache-manifest.7cee39ae0fb0deab6c0494491cd8fcde.js",
+    "service-worker.js": "/react-monster/service-worker.js",
+    "static/css/main.aaf8a044.chunk.css.map": "/react-monster/static/css/main.aaf8a044.chunk.css.map",
+    "static/js/2.7d94dc6b.chunk.js.LICENSE.txt": "/react-monster/static/js/2.7d94dc6b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-monster/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b54cbee.js",
+    "static/js/runtime-main.a54653ae.js",
     "static/js/2.7d94dc6b.chunk.js",
     "static/css/main.aaf8a044.chunk.css",
-    "static/js/main.ee8c6469.chunk.js"
+    "static/js/main.6627251d.chunk.js"
   ]
 }
